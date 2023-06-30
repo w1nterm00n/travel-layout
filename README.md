@@ -1,3 +1,3 @@
 # travel-layout
 layout
-     ![Desktop.jpg](/Desktop.jpg)
+     ![Desktop.png](/Desktop.png)
